@@ -1,0 +1,7 @@
+selenium
+pandas
+bs4
+requests
+numpy
+openpyxl
+smtplib
