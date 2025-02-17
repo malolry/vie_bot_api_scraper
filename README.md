@@ -18,7 +18,7 @@ This project scrapes job offers from the Business France VIE/VIA API and sends e
 ```
 vie-via-scraper/
 │
-├── scraper.py           # Main script for fetching and processing data
+├── bf_api_caller.py           # Main script for fetching and processing data
 ├── api_data.json        # Cached job offers data
 ├── api_metadata.json    # Metadata about last fetch
 └── requirements.txt     # Project dependencies
