@@ -51,7 +51,7 @@ The script requires a Gmail account configured with an App Password for sending 
 
 Run the script:
 ```bash
-python scraper.py
+python bf_api_caller.py
 ```
 
 The script will:
