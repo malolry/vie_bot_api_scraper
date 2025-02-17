@@ -31,7 +31,7 @@ vie-via-scraper/
    ```bash
    pip install -r requirements.txt
    ```
-3. Configure email settings in `scraper.py`:
+3. Configure email settings in `bf_api_caller.py`:
    - Replace `sender_email` with your Gmail address
    - Replace `receiver_email` with the target email address
    - Update the Gmail app password
